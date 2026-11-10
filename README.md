@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Focused on Front-End Development<br>🧩 Have basic Back-End knowledge<br>🎯 Experienced with PHP, JavaScript, SQL, HTML, CSS, Bootstrap,Tailwind CSS <br>🗄️ Familiar with PHP, JavaScript, and SQL<br>🎨 Passionate about clean UI & responsive design<br>📚 Continuously learning modern web technologies<br><br>===============================<br><br>💼 Fokus di Front-End Development<br>🧩 Memiliki pemahaman Back-End dasar<br>🎯 Berpengalaman membangun web dengan PHP, JavaScript, SQL, HTML, CSS, Bootstrap, Tailwind CSS<br>🗄️ Terbiasa menggunakan PHP, JavaScript, dan SQL<br>🎨 Menyukai clean UI & responsive design<br>📚 Terus belajar teknologi web terbaru
+💼 Focused on Web Development<br>🧩 Have basic Back-End knowledge<br>🎯 Experienced with PHP, JavaScript, SQL, HTML, CSS, Bootstrap,Tailwind CSS <br>🗄️ Familiar with PHP, JavaScript, and SQL<br>🎨 Passionate about clean UI & responsive design<br>📚 Continuously learning modern web technologies<br><br>===============================<br><br>💼 Fokus di Web Development<br>🧩 Memiliki pemahaman Back-End dasar<br>🎯 Berpengalaman membangun web dengan PHP, JavaScript, SQL, HTML, CSS, Bootstrap, Tailwind CSS<br>🗄️ Terbiasa menggunakan PHP, JavaScript, dan SQL<br>🎨 Menyukai clean UI & responsive design<br>📚 Terus belajar teknologi web terbaru
 
 
 ## 🌐 Socials:
